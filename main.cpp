@@ -30,7 +30,4 @@ int main(){
 
     a.divide(b);
     cout << "After dividing a by b: " << a.toString() << endl;
-
-
-    return 0;
 }
