@@ -4,7 +4,7 @@ int main(){
     Fraction a(3, 5);
     Fraction b = a;
     b.setNumerator(2); b.setDenominator(7);
-    Fraction c, d, e, f;
+    Fraction c, d, e, f; //test test ignore this comment
 
     cout << "Fraction a: " << a.getNumerator() << "/" << a.getDenominator() << endl;
     cout << "Fraction b: " << b.getNumerator() << "/" << b.getDenominator() << endl;
